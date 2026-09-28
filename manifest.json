@@ -1,0 +1,12 @@
+{
+  "name": "Vocab Book",
+  "short_name": "Vocab",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#FBFAF7",
+  "theme_color": "#1F2A44",
+  "icons": [
+    {"src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable"}
+  ]
+}
